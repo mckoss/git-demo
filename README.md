@@ -3,4 +3,6 @@
 Here's a line written by Mike.
 Hello Mike!
 
-This is another line for testing
+
+
+Here is another line added by Mike.
